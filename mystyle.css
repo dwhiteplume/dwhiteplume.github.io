@@ -1,4 +1,4 @@
-body{
+body {
     color:bisque;
     background-color:#222222;
     margin: 1em;
@@ -9,6 +9,11 @@ td {
   width: 50%;
 }
 
-a{
+a {
     color:pink;
+}
+
+.avatar {
+    width: 116px;
+    height: 116px;
 }
