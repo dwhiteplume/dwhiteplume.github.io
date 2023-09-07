@@ -1,10 +1,14 @@
 body{
     color:bisque;
-    background-color:darkslategrey;
+    background-color:#222222;
     margin: 1em;
 }
 
 td {
   text-align: center;
   width: 50%;
+}
+
+a{
+    color:pink;
 }
