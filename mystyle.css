@@ -1,3 +1,9 @@
+body{
+    color:bisque;
+    background-color:darkslategrey;
+    margin: 1em;
+}
+
 td {
   text-align: center;
   width: 50%;
