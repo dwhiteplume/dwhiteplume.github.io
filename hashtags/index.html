@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hashtag Builder</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Hashtags</h1>
+    </header>
+    <main>
+        <form id="myForm">
+					<center>
+            <textarea id="post"></textarea>
+					</center>
+            <h2>Days:</h2>
+						<div class="section">
+            <span id="MonochromeMonday" onclick="addTagToTextarea('MonochromeMonday', 'post');">#MonochromeMonday </span> 
+						<span id="VplMonday" onclick="addTagToTextarea('VplMonday', 'post');">#VplMonday </span> 
+            <span id="TighteyWhiteyTuesday" onclick="addTagToTextarea('TighteyWhiteyTuesday', 'post');">#TighteyWhiteyTuesday #TWT </span>
+						<span id="WagonWednesday" onclick="addTagToTextarea('WagonWednesday', 'post');">#WagonWednesday </span> 
+						<span id="WidebandWednesday" onclick="addTagToTextarea('WidebandWednesday', 'post');">#WidebandWednesday </span> 
+            <span id="OnWednesdaysWeWearPink" onclick="addTagToTextarea('OnWednesdaysWeWearPink', 'post');">#OnWednesdaysWeWearPink </span>
+						<span id="HumpDay" onclick="addTagToTextarea('HumpDay', 'post');">#HumpDay </span> 
+						<span id="Thighsday" onclick="addTagToTextarea('Thighsday', 'post');">#Thighsday </span> 
+						<span id="ThirstyThursday" onclick="addTagToTextarea('ThirstyThursday', 'post');">#ThirstyThursday </span> 
+            <span id="ThongThursday" onclick="addTagToTextarea('ThongThursday', 'post');">#ThongThursday </span>
+            <span id="JockstrapFriday" onclick="addTagToTextarea('JockstrapFriday', 'post');">#JockstrapFriday </span>
+					  </div>
+            <h2>Styles:</h2>
+						<div class="section">
+            <span id="Bikini" onclick="addTagToTextarea('Bikini', 'post');">#Bikini </span> 
+						<span id="BottomlessBrief" onclick="addTagToTextarea('BottomlessBrief', 'post');">#BottomlessBrief </span> 
+						<span id="Brief" onclick="addTagToTextarea('Brief', 'post');">#Brief #Briefs </span> 
+						<span id="Fetish" onclick="addTagToTextarea('Fetish', 'post');">#Fetish </span> 
+						<span id="GString" onclick="addTagToTextarea('GString', 'post');">#GString </span> 
+						<span id="Jockstrap" onclick="addTagToTextarea('Jockstrap', 'post');">#Jockstrap </span> 
+						<span id="MicroBrief" onclick="addTagToTextarea('MicroBrief', 'post');">#MicroBrief </span> 
+						<span id="no10" onclick="addTagToTextarea('no10', 'post');">#no10 </span> 
+						<span id="Socks" onclick="addTagToTextarea('Socks', 'post');">#Socks </span> 
+						<span id="Strapless" onclick="addTagToTextarea('Strapless', 'post');">#Strapless </span> 
+						<span id="Swimwear" onclick="addTagToTextarea('Swimwear', 'post');">#Swimwear </span> 
+						<span id="Tanga" onclick="addTagToTextarea('Tanga', 'post');">#Tanga </span> 
+						<span id="Thong" onclick="addTagToTextarea('Thong', 'post');">#Thong </span>
+						<span id="Trunk" onclick="addTagToTextarea('Trunk', 'post');">#Trunk </span> 
+					  </div>
+						<h2>Brands:</h2>
+						<div class="section">
+						<span id="AddictedES" onclick="addTagToTextarea('AddictedES', 'post');">#AdditctedES </span> 
+						<span id="AndrewChristian" onclick="addTagToTextarea('AndrewChristian', 'post');">#AndrewChristian </span> 
+						<span id="ArmaniExchange" onclick="addTagToTextarea('ArmaniExchange', 'post');">#ArmaniExchange </span> 
+						<span id="AronikSwimwear" onclick="addTagToTextarea('AronikSwimwear', 'post');">#AronikSwimwear </span> 
+						<span id="AussieBum" onclick="addTagToTextarea('AussieBum', 'post');">#AussieBum </span> 
+						<span id="BananaRepublic" onclick="addTagToTextarea('BananaRepublic', 'post');">#BananaRepublic </span> 
+						<span id="BangMiami" onclick="addTagToTextarea('BangMiami', 'post');">#BangMiami </span> 
+						<span id="BarcodeBerlin" onclick="addTagToTextarea('BarcodeBerlin', 'post');">#BarcodeBerlin </span> 
+						<span id="BikeAthletic" onclick="addTagToTextarea('BikeAthletic', 'post');">#BikeAthletic </span> 
+						<span id="BravePerson" onclick="addTagToTextarea('BravePerson', 'post');">#BravePerson </span> 
+						<span id="CalvinKlein" onclick="addTagToTextarea('CalvinKlein', 'post');">#CalvinKlein </span> 
+						<span id="Cellblock13" onclick="addTagToTextarea('Cellblock13', 'post');">#Cellblock13 </span> 
+						<span id="Clever" onclick="addTagToTextarea('Clever', 'post');">#Clever </span> 
+						<span id="Cocksox" onclick="addTagToTextarea('Cocksox', 'post');">#Cocksox </span> 
+						<span id="CoverMale" onclick="addTagToTextarea('CoverMale', 'post');">#CoverMale </span> 
+						<span id="Cut4Men" onclick="addTagToTextarea('Cut4Men', 'post');">#Cut4Men </span> 
+						<span id="DaddyUnderwear" onclick="addTagToTextarea('DaddyUnderwear', 'post');">#DaddyUnderwear </span> 
+						<span id="DanielAlexander" onclick="addTagToTextarea('DanielAlexander', 'post');">#DanielAlexander </span> 
+						<span id="Dietz" onclick="addTagToTextarea('Dietz', 'post');">#Dietz </span> 
+						<span id="DirtSquirrel" onclick="addTagToTextarea('DirtSquirrel', 'post');">#DirtSquirrel </span> 
+						<span id="Doreanse" onclick="addTagToTextarea('Doreanse', 'post');">#Doreanse </span> 
+						<span id="EmporioArmani" onclick="addTagToTextarea('EmporioArmani', 'post');">#EmporioArmani </span> 
+						<span id="GreggHomme" onclick="addTagToTextarea('GreggHomme', 'post');">#GreggHomme </span> 
+						<span id="Intymen" onclick="addTagToTextarea('Intymen', 'post');">#Intymen </span> 
+						<span id="Jockmail" onclick="addTagToTextarea('Jockmail', 'post');">#Jockmail </span> 
+						<span id="JoeSnyder" onclick="addTagToTextarea('JoeSnyder', 'post');">#JoeSnyder </span> 
+						<span id="LaCoste" onclick="addTagToTextarea('LaCoste', 'post');">#LaCoste </span> 
+						<span id="Marcuse" onclick="addTagToTextarea('Marcuse', 'post');">#Marcuse </span> 
+						<span id="MichaelKors" onclick="addTagToTextarea('Michael Kors', 'post');">#MichaelKors </span> 
+						<span id="NZLaundry" onclick="addTagToTextarea('NZLaundry', 'post');">#NZLaundry </span> 
+						<span id="Pearadox" onclick="addTagToTextarea('Pearadox', 'post');">#Pearadox </span> 
+						<span id="PetitQ" onclick="addTagToTextarea('PetitQ', 'post');">#PetitQ </span> 
+						<span id="Pump" onclick="addTagToTextarea('Pump', 'post');">#Pump </span> 
+						<span id="RawStudio" onclick="addTagToTextarea('RawStudio', 'post');">#RawStudio </span> 
+						<span id="Sinner" onclick="addTagToTextarea('Sinner', 'post');">#Sinner </span> 
+						<span id="Speedo" onclick="addTagToTextarea('Speedo', 'post');">#Speedo </span> 
+						<span id="SUKREW" onclick="addTagToTextarea('SUKREW', 'post');">#SUKREW </span> 
+						<span id="SupaWear" onclick="addTagToTextarea('SupaWear', 'post');">#SupaWear </span> 
+						<span id="TootJapan" onclick="addTagToTextarea('TootJapan', 'post');">#TootJapan </span> 
+						<span id="Xtremen" onclick="addTagToTextarea('Xtremen', 'post');">#Xtremen </span> 
+						<!--
+						<span id="" onclick="addTagToTextarea('', 'post');"># </span> 
+						<span id="" onclick="addTagToTextarea('', 'post');"># </span> 
+						<span id="" onclick="addTagToTextarea('', 'post');"># </span> 
+					-->
+						<!--
+						<span id="" onclick="addTagToTextarea('', 'post');"># </span> 
+						-->
+					  </div>
+						<h2>Special:</h2>
+						<div class="section">
+						<span id="MenInThongs" onclick="addTagToTextarea('MenInThongs', 'post');">#MenInThongs </span> 
+						<span id="MensUnderwear" onclick="addTagToTextarea('MensUnderwear', 'post');">#MensUnderwear </span> 
+						<span id="Mesh" onclick="addTagToTextarea('Mesh', 'post');">#Mesh </span> 
+						<span id="Sheer" onclick="addTagToTextarea('Sheer', 'post');">#Sheer </span> 
+						<span id="VPL" onclick="addTagToTextarea('VPL', 'post');">#VPL </span> 
+					  </div>
+        </form>
+    </main>
+</body>
+</html>
