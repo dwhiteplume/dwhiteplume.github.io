@@ -1,0 +1,38 @@
+body {
+	background-color: midnightblue;
+	color: lightslategray;
+	font-family: sans-serif;
+}
+
+textarea {
+	width: 90%;
+	height: 5cm;
+}
+
+.tag {
+	border: solid black 1px;
+	padding: 0.25em;
+	margin: 0.25em;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+.output {
+	display: block;
+	width: 100%;
+}
+
+.section {
+	text-align: center;
+}
+
+.section span {
+	background-color: dodgerblue;
+	color: lemonchiffon;
+	font-style: oblique;
+	border: solid lightblue 1px;
+	padding: 0.25em;
+	margin: 0.125em;
+	display: inline-block;
+	border-radius: 10px;
+}
