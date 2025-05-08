@@ -38,3 +38,7 @@
 - Schwartz, S. (2008). *Wicked: Fifth Anniversary Special Edition* [Album]. Decca Broadway.
 - Ware, J. (2020). *What's Your Pleasure? (Platinum Pleasure Edition)* [Album]. PMR Records, EMI.
 - Ware, J. (2023). *That! Feels Good!* [Album]. EMI Records.
+
+## Film
+
+- Curtiz, M. (Director). (1942). Casablanca [Film]. Warner Bros.
