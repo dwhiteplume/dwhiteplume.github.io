@@ -13,7 +13,7 @@ A reference for books, music, and film.
 - Kawabata, Y. (1956). Snow Country (E. G. Seidensticker, Trans.). Knopf.
 - L’Engle, M. (2007). A Wrinkle in Time. Square Fish.
 - Mishima, Y. (1968). Forbidden Colors (A. H. Marks, Trans.). Knopf.
-- 
+- Moorcock, M. (Ed.). (1996). Pawn of Chaos: Tales of the Eternal Champion. White Wolf Publishing.
 - Woolf, V. (1928). *Orlando*. Mariner Classics.
 
 ## Non-Fiction
