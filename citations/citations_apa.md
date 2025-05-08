@@ -1,3 +1,11 @@
+# APA-style Citations
+A reference for books, music, and film.
+
+- [Fiction](#Fiction)
+- [Non-Fiction](#Non-Fiction)
+- [Music](#Music)
+- [Film](#Film)
+
 ## Fiction
 - Delemhach. (2022). *The House Witch*. Podium Publishing.
 - Woolf, V. (1928). *Orlando*. Mariner Classics.
@@ -41,4 +49,5 @@
 
 ## Film
 
-- Curtiz, M. (Director). (1942). Casablanca [Film]. Warner Bros.
+- Curtiz, M. (Director). (1942). *Casablanca* [Film]. Warner Bros.
+- Curtiz, M. (Director). (1945). *Mildred Pierce* [Film]. Warner Bros.
