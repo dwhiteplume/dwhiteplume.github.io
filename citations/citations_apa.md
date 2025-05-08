@@ -7,7 +7,13 @@ A reference for books, music, and film.
 - [Film](#Film)
 
 ## Fiction
+- Benedict, M. (2019). The Only Woman in the Room. Sourcebooks Landmark.
+- Chandler, R. (2011). The Big Sleep. Penguin Books.
 - Delemhach. (2022). *The House Witch*. Podium Publishing.
+- Kawabata, Y. (1956). Snow Country (E. G. Seidensticker, Trans.). Knopf.
+- L’Engle, M. (2007). A Wrinkle in Time. Square Fish.
+- Mishima, Y. (1968). Forbidden Colors (A. H. Marks, Trans.). Knopf.
+- 
 - Woolf, V. (1928). *Orlando*. Mariner Classics.
 
 ## Non-Fiction
