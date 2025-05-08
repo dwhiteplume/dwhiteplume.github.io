@@ -42,6 +42,7 @@ A reference for books, music, and film.
 - Minogue, K. (2020). *Disco: Guest List Edition* [Album]. BMG, Darenote.
 - Minogue, K. (2023). *Tension* [Album]. BMG, Darenote.
 - Minogue, K. (2024). *Tension II* [Album]. BMG, Darenote.
+- Rush. (1975). *Caress of Steel* [Album]. Mercury Records
 - Summer, D. (1979). *Bad Girls* [Album]. Casablanca Records.
 - Schwartz, S. (2008). *Wicked: Fifth Anniversary Special Edition* [Album]. Decca Broadway.
 - Ware, J. (2020). *What's Your Pleasure? (Platinum Pleasure Edition)* [Album]. PMR Records, EMI.
