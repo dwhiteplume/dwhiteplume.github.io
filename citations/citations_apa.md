@@ -19,6 +19,7 @@ A reference for books, music, and film.
 - Woolf, V. (1928). *Orlando*. Mariner Classics.
 
 ## Non-Fiction
+### Biography
 - Brower, K. (2022). *Elizabeth Taylor: The Grit & Glamour of an Icon*. Harper.
 - Burke, C. (1997). *Becoming Modern: The Life of Mina Loy*. University of California Press.
 - Canyon, C. (2004). *Lights, Camera, Sex!: An Autobiography of Christy Canyon*.
@@ -33,6 +34,8 @@ A reference for books, music, and film.
 - Swindell, L. (1975). *Screwball: The Life of Carole Lombard*. Echo Point Books & Media.
 - Van Doren, M. (1987-2013). *Playing the Field: Sex, Stardom, Love and Life in Hollywood*. Starlet Suave Books.
 - Whitfield, E. (2007). *Pickford: The Woman Who Made Hollywood*. University of Kentucky Press.
+### History
+- Schele, L., & Freidel, D. (1990). A forest of kings: The untold story of the Maya. William Morrow.
 
 ## Music
 - The Dead Milkmen. (1985). *Big Lizard in My Backyard* [Album]. Restless Records.
