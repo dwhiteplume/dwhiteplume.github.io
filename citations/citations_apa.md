@@ -14,6 +14,8 @@ A reference for books, music, and film.
 - L’Engle, M. (2007). A Wrinkle in Time. Square Fish.
 - Mishima, Y. (1968). Forbidden Colors (A. H. Marks, Trans.). Knopf.
 - Moorcock, M. (Ed.). (1996). Pawn of Chaos: Tales of the Eternal Champion. White Wolf Publishing.
+- Wheatley, D. (1934). The Devil Rides Out. Hutchinson.
+- White, T. H. (1987). The Once and Future King. Ace Books.
 - Woolf, V. (1928). *Orlando*. Mariner Classics.
 
 ## Non-Fiction
