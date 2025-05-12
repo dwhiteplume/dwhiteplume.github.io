@@ -63,3 +63,7 @@ A reference for books, music, and film.
 
 - Curtiz, M. (Director). (1942). *Casablanca* [Film]. Warner Bros.
 - Curtiz, M. (Director). (1945). *Mildred Pierce* [Film]. Warner Bros.
+
+### Documentary
+
+- Burstein, N. (Director). (2024). *Elizabeth Taylor: The Lost Tapes* [Film]. HBO Documentary Films.
