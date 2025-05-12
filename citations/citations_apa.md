@@ -63,7 +63,8 @@ A reference for books, music, and film.
 
 - Curtiz, M. (Director). (1942). *Casablanca* [Film]. Warner Bros.
 - Curtiz, M. (Director). (1945). *Mildred Pierce* [Film]. Warner Bros.
-
+- Waititi, T. (Director). (2017). *Thor: Ragnarok* [Film]. Walt Disney Studios Motion Pictures.
+- 
 ### Documentary
 
 - Burstein, N. (Director). (2024). *Elizabeth Taylor: The Lost Tapes* [Film]. HBO Documentary Films.
