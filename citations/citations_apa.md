@@ -10,6 +10,7 @@ A reference for books, music, and film.
 - Benedict, M. (2019). The Only Woman in the Room. Sourcebooks Landmark.
 - Chandler, R. (2011). The Big Sleep. Penguin Books.
 - Delemhach. (2022). *The House Witch*. Podium Publishing.
+- Jakubowski, M., & Spengler, F. (Eds.). (2006). *Ooh La La!: Contemporary French Erotica by Women*. Running Press.
 - Kawabata, Y. (1956). Snow Country (E. G. Seidensticker, Trans.). Knopf.
 - L’Engle, M. (2007). A Wrinkle in Time. Square Fish.
 - Mishima, Y. (1968). Forbidden Colors (A. H. Marks, Trans.). Knopf.
