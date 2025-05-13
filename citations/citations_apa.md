@@ -40,6 +40,7 @@ A reference for books, music, and film.
 - Evans, P., & Gardner, A. (2014). *Ava Gardner: The Secret Conversations*. Simon & Schuster Paperbacks.
 - Gardner, A. (1999). *Ava: My Story*. Bantam Books.
 - McDonough, J. (2005). *Big Bosoms and Square Jaws: The Life of Russ Meyer, King of the Sex Film*. Crown Publishers.
+- Millet, C. (2002). *The Sexual Life of Catherine M*. Grove Press.
 - Quirk, L., & Schoell, W. (2002). *Joan Crawford: The Essential Biography*. University of Kentucky Press.
 - Rice, C. (2021). *Mean... Moody... Magnificent!: Jane Russell and the Marketing of a Hollywood Legend*. University of Kentucky Press.
 - Schwartz, T., & Rustam, M. (2008). *Candy Barr: The Small-Town Texas Runaway Who Became a Darling of the Mob and the Queen of Las Vegas Burlesque*. Taylor Trade Publishing.
