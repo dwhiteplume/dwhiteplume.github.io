@@ -14,6 +14,19 @@ A reference for books, music, and film.
 - L’Engle, M. (2007). A Wrinkle in Time. Square Fish.
 - Mishima, Y. (1968). Forbidden Colors (A. H. Marks, Trans.). Knopf.
 - Moorcock, M. (Ed.). (1996). Pawn of Chaos: Tales of the Eternal Champion. White Wolf Publishing.
+- Snicket, L. (1999). *The Bad Beginning*. HarperCollins.
+- Snicket, L. (1999). *The Reptile Room*. HarperCollins.
+- Snicket, L. (2000). *The Wide Window*. HarperCollins.
+- Snicket, L. (2000). *The Miserable Mill*. HarperCollins.
+- Snicket, L. (2000). *The Austere Academy*. HarperCollins.
+- Snicket, L. (2001). *The Ersatz Elevator*. HarperCollins.
+- Snicket, L. (2001). *The Vile Village*. HarperCollins.
+- Snicket, L. (2001). *The Hostile Hospital*. HarperCollins.
+- Snicket, L. (2002). *The Carnivorous Carnival*. HarperCollins.
+- Snicket, L. (2003). *The Slippery Slope*. HarperCollins.
+- Snicket, L. (2004). *The Grim Grotto*. HarperCollins.
+- Snicket, L. (2005). *The Penultimate Peril*. HarperCollins.
+- Snicket, L. (2006). *The End*. HarperCollins.
 - Wheatley, D. (1934). The Devil Rides Out. Hutchinson.
 - White, T. H. (1987). The Once and Future King. Ace Books.
 - Woolf, V. (1928). *Orlando*. Mariner Classics.
