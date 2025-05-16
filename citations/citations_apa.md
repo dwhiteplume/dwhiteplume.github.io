@@ -60,6 +60,7 @@ A reference for books, music, and film.
 - Lipa, D. (2020). *Club Future Nostalgia (Bonus Edition)* [Album]. Warner Records.
 - Lipa, D. (2024). *Radical Optimism* [Album]. Warner Records.
 - Madonna. (1998). *Ray of Light* [Album]. Maverick, Warner Bros.
+- Madonna. (2022). *Finally Enough Love* [Album]. Warner Records.
 - Minogue, K. (1988). *Kylie* [Album]. Mushroom Records.
 - Minogue, K. (1997). *Impossible Princess* [Album]. Deconstruction, BMG, Mushroom Records.
 - Minogue, K. (2000). *Light Years* [Album]. Parlophone, Mushroom Records.
