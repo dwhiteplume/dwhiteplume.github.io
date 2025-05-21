@@ -47,6 +47,7 @@ A reference for books, music, and film.
 - Schwartz, T., & Rustam, M. (2008). *Candy Barr: The Small-Town Texas Runaway Who Became a Darling of the Mob and the Queen of Las Vegas Burlesque*. Taylor Trade Publishing.
 - Sikov, E. (2007). *Dark Victory: The Life of Bette Davis*. Holt Paperbacks.
 - Swindell, L. (1975). *Screwball: The Life of Carole Lombard*. Echo Point Books & Media.
+- Spears, B. (2023). *The Woman in Me*. Gallery Books.
 - Van Doren, M. (1987-2013). *Playing the Field: Sex, Stardom, Love and Life in Hollywood*. Starlet Suave Books.
 - Whitfield, E. (2007). *Pickford: The Woman Who Made Hollywood*. University of Kentucky Press.
 ### History
