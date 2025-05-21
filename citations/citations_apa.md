@@ -37,6 +37,10 @@ A reference for books, music, and film.
 - Brower, K. (2022). *Elizabeth Taylor: The Grit & Glamour of an Icon*. Harper.
 - Burke, C. (1997). *Becoming Modern: The Life of Mina Loy*. University of California Press.
 - Canyon, C. (2004). *Lights, Camera, Sex!: An Autobiography of Christy Canyon*.
+- Chandler, C. (2008). *Not the Girl Next Door: Joan Crawford, A Personal Biography*. Simon & Schuster.
+- Collins, J. (1997). *Second Act: An Autobiography*. St. Martin's Press.
+- Cooper, A. (2023). *Astor: The Rise and Fall of an American Fortune*. Harper.
+- Davis, V. (2022). *Finding Me: A Memoir*. HarperOne.
 - Dior, C. (2018). *Dior by Dior: The Autobiography of Christian Dior*. V & A Publishing.
 - Evans, P., & Gardner, A. (2014). *Ava Gardner: The Secret Conversations*. Simon & Schuster Paperbacks.
 - Gardner, A. (1999). *Ava: My Story*. Bantam Books.
@@ -72,8 +76,9 @@ A reference for books, music, and film.
 - Minogue, K. (2024). *Tension II* [Album]. BMG, Darenote.
 - Rush. (1975). *Caress of Steel* [Album]. Mercury Records
 - Queen. (1980). *Flash Gordon: The Original Soundtrack*. EMI Records.
-- Summer, D. (1979). *Bad Girls* [Album]. Casablanca Records.
 - Schwartz, S. (2008). *Wicked: Fifth Anniversary Special Edition* [Album]. Decca Broadway.
+- Summer, D. (1975). *Love to Love You Baby* [Album]. Casablanca Records.
+- Summer, D. (1979). *Bad Girls* [Album]. Casablanca Records.
 - Ware, J. (2020). *What's Your Pleasure? (Platinum Pleasure Edition)* [Album]. PMR Records, EMI.
 - Ware, J. (2023). *That! Feels Good!* [Album]. EMI Records.
 
