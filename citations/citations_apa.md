@@ -62,6 +62,7 @@ A reference for books, music, and film.
 
 ## Music
 - The Dead Milkmen. (1985). *Big Lizard in My Backyard* [Album]. Restless Records.
+- Eilish, B. (2019). *When We All Fall Asleep, Where Do We Go?* [Album]. Darkroom/Interscope Records.
 - Fish, S. (2021). *Faster* [Album]. Rounder Records.
 - Lipa, D. (2017). *Dua Lipa (Complete Edition)* [Album]. Warner Bros. Records.
 - Lipa, D. (2020). *Future Nostalgia* [Album]. Warner Records.
