@@ -3,7 +3,10 @@ A reference for books, music, and film.
 
 - [Fiction](#Fiction)
 - [Non-Fiction](#Non-Fiction)
+    - [Biography](#Biography)
+    - [History](History)
 - [Music](#Music)
+    - [Music Criticism](Music-Criticism)
 - [Film](#Film)
 
 ## Fiction
@@ -81,6 +84,10 @@ A reference for books, music, and film.
 - Summer, D. (1979). *Bad Girls* [Album]. Casablanca Records.
 - Ware, J. (2020). *What's Your Pleasure? (Platinum Pleasure Edition)* [Album]. PMR Records, EMI.
 - Ware, J. (2023). *That! Feels Good!* [Album]. EMI Records.
+
+### Music Criticism
+
+- Jeffery, A. (2021). *Donna Summer's Once Upon a Time*. Bloomsbury Publishing.
 
 ## Film
 
