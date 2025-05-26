@@ -61,6 +61,7 @@ A reference for books, music, and film.
 - Schele, L., & Freidel, D. (1990). A forest of kings: The untold story of the Maya. William Morrow.
 
 ## Music
+- Baez, J. (1970). *The First 10 Years* [Album]. Vanguard Records.
 - The Dead Milkmen. (1985). *Big Lizard in My Backyard* [Album]. Restless Records.
 - Eilish, B. (2019). *When We All Fall Asleep, Where Do We Go?* [Album]. Darkroom/Interscope Records.
 - Fish, S. (2021). *Faster* [Album]. Rounder Records.
