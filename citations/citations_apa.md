@@ -96,6 +96,7 @@ A reference for books, music, and film.
 - Curtiz, M. (Director). (1939). *Dark Victory* [Film]. Warner Bros.
 - Curtiz, M. (Director). (1942). *Casablanca* [Film]. Warner Bros.
 - Curtiz, M. (Director). (1945). *Mildred Pierce* [Film]. Warner Bros.
+- Mankiewicz, J. L. (Director). (1950). *All About Eve* [Film]. 20th Century Fox.
 - Ray, N. (Director). (2012). _Johnny Guitar_ [Film]. Olive Films.
 - Waititi, T. (Director). (2017). *Thor: Ragnarok* [Film]. Walt Disney Studios Motion Pictures.
 - Waititi, T. (Director). (2022). *Thor: Love and Thunder* [Film]. Marvel Studios.
