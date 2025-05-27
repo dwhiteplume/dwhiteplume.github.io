@@ -4,10 +4,12 @@ A reference for books, music, and film.
 - [Fiction](#Fiction)
 - [Non-Fiction](#Non-Fiction)
     - [Biography](#Biography)
-    - [History](History)
+    - [History](#History)
 - [Music](#Music)
-    - [Music Criticism](Music-Criticism)
+    - [Music Criticism](#Music-Criticism)
 - [Film](#Film)
+    - [Documentary](#Documentary)
+    - [Film Criticism](#Film-Criticism)
 
 ## Fiction
 - Benedict, M. (2019). The Only Woman in the Room. Sourcebooks Landmark.
@@ -104,3 +106,7 @@ A reference for books, music, and film.
 ### Documentary
 
 - Burstein, N. (Director). (2024). *Elizabeth Taylor: The Lost Tapes* [Film]. HBO Documentary Films.
+
+### Film Criticism
+
+- Staggs, S. (2019). *All About "All About Eve": The Complete Behind-the-Scenes Story of the Bitchiest Film Ever Made*. Running Press.
