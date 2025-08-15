@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Random Case Converter</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2em;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+      max-width: 400px;
+      margin: auto;
+    }
+    input[type="text"], textarea {
+      padding: 0.75em;
+      font-size: 1em;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      width: 100%;
+    }
+    button {
+      padding: 0.75em;
+      font-size: 1em;
+      background-color: #0078d4;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #005fa3;
+    }
+    textarea {
+      height: 150px;
+      resize: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Random Case Converter</h1>
+  <form id="caseForm">
+    <input type="text" id="inputText" placeholder="Enter your text here" required />
+    <button type="submit">Convert</button>
+    <textarea id="outputText" readonly placeholder="Result will appear here..."></textarea>
+  </form>
+
+  <script>
+    function randomizeCase(text) {
+      return [...text].map(char => {
+        if (/[a-zA-Z]/.test(char)) {
+          return Math.random() < 0.5 ? char.toLowerCase() : char.toUpperCase();
+        }
+        return char;
+      }).join('');
+    }
+
+    document.getElementById('caseForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const input = document.getElementById('inputText').value;
+      const output = randomizeCase(input);
+      document.getElementById('outputText').value = output;
+    });
+  </script>
+  <div style="text-align: center;">
+    <a href="https://github.com/dwhiteplume/Mocking-Text-Generator" style="text-align:center;">GitHub Repository</a>
+  </div>
+</body>
+</html>
