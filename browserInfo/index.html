@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browser Information Tool</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            color: #333;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+        
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.8;
+        }
+        
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 30px;
+        }
+        
+        .info-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .info-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .info-card h2 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+        }
+        
+        .info-item {
+            margin: 12px 0;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px dashed #eee;
+            padding-bottom: 8px;
+        }
+        
+        .info-label {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        .info-value {
+            color: #e74c3c;
+            font-family: 'Courier New', monospace;
+            text-align: right;
+            max-width: 60%;
+            word-break: break-word;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: white;
+            background: #2c3e50;
+            margin-top: 20px;
+            border-radius: 0 0 15px 15px;
+        }
+        
+        @media (max-width: 768px) {
+            .info-grid {
+                grid-template-columns: 1fr;
+                padding: 15px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Browser Information Tool</h1>
+            <p class="subtitle">Detailed analysis of your browser environment</p>
+        </header>
+        
+        <div class="info-grid">
+            <div class="info-card">
+                <h2>Browser Details</h2>
+                <div class="info-item">
+                    <span class="info-label">Browser:</span>
+                    <span class="info-value" id="browser-name">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Version:</span>
+                    <span class="info-value" id="browser-version">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">User Agent:</span>
+                    <span class="info-value" id="user-agent">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Platform:</span>
+                    <span class="info-value" id="platform">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Language:</span>
+                    <span class="info-value" id="language">Detecting...</span>
+                </div>
+            </div>
+            
+            <div class="info-card">
+                <h2>Screen Details</h2>
+                <div class="info-item">
+                    <span class="info-label">Screen Size:</span>
+                    <span class="info-value" id="screen-size">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Available Screen:</span>
+                    <span class="info-value" id="available-screen">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Color Depth:</span>
+                    <span class="info-value" id="color-depth">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Pixel Ratio:</span>
+                    <span class="info-value" id="pixel-ratio">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Orientation:</span>
+                    <span class="info-value" id="orientation">Detecting...</span>
+                </div>
+            </div>
+            
+            <div class="info-card">
+                <h2>Window Details</h2>
+                <div class="info-item">
+                    <span class="info-label">Window Size:</span>
+                    <span class="info-value" id="window-size">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Viewport Size:</span>
+                    <span class="info-value" id="viewport-size">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Timezone:</span>
+                    <span class="info-value" id="timezone">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Local Time:</span>
+                    <span class="info-value" id="local-time">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Online Status:</span>
+                    <span class="info-value" id="online-status">Detecting...</span>
+                </div>
+            </div>
+            
+            <div class="info-card">
+                <h2>Technical Details</h2>
+                <div class="info-item">
+                    <span class="info-label">Cookies Enabled:</span>
+                    <span class="info-value" id="cookies-enabled">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">JavaScript Enabled:</span>
+                    <span class="info-value" id="js-enabled">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Java Enabled:</span>
+                    <span class="info-value" id="java-enabled">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">PDF Viewer:</span>
+                    <span class="info-value" id="pdf-viewer">Detecting...</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">WebGL Supported:</span>
+                    <span class="info-value" id="webgl-supported">Detecting...</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Browser Information Tool &copy; 2023 | For testing and diagnostic purposes</p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Browser details
+            document.getElementById('user-agent').textContent = navigator.userAgent;
+            document.getElementById('platform').textContent = navigator.platform;
+            document.getElementById('language').textContent = navigator.language || navigator.userLanguage;
+            
+            // Detect browser name and version
+            const ua = navigator.userAgent;
+            let browserName, browserVersion;
+            
+            if (ua.includes('Firefox')) {
+                browserName = 'Firefox';
+                browserVersion = ua.match(/Firefox\/([0-9.]+)/)[1];
+            } else if (ua.includes('Chrome') && !ua.includes('Edg')) {
+                browserName = 'Chrome';
+                browserVersion = ua.match(/Chrome\/([0-9.]+)/)[1];
+            } else if (ua.includes('Safari') && !ua.includes('Chrome')) {
+                browserName = 'Safari';
+                browserVersion = ua.match(/Version\/([0-9.]+)/)[1];
+            } else if (ua.includes('Edg')) {
+                browserName = 'Microsoft Edge';
+                browserVersion = ua.match(/Edg\/([0-9.]+)/)[1];
+            } else if (ua.includes('MSIE') || ua.includes('Trident')) {
+                browserName = 'Internet Explorer';
+                browserVersion = ua.match(/(MSIE |rv:)([0-9.]+)/)[2];
+            } else {
+                browserName = 'Unknown';
+                browserVersion = 'Unknown';
+            }
+            
+            document.getElementById('browser-name').textContent = browserName;
+            document.getElementById('browser-version').textContent = browserVersion;
+            
+            // Screen details
+            document.getElementById('screen-size').textContent = `${screen.width} × ${screen.height}`;
+            document.getElementById('available-screen').textContent = `${screen.availWidth} × ${screen.availHeight}`;
+            document.getElementById('color-depth').textContent = `${screen.colorDepth} bits`;
+            document.getElementById('pixel-ratio').textContent = window.devicePixelRatio || 'Not available';
+            document.getElementById('orientation').textContent = screen.orientation ? screen.orientation.type : 'Not available';
+            
+            // Window details
+            function updateWindowData() {
+                document.getElementById('window-size').textContent = `${window.innerWidth} × ${window.innerHeight}`;
+                document.getElementById('viewport-size').textContent = `${document.documentElement.clientWidth} × ${document.documentElement.clientHeight}`;
+                document.getElementById('timezone').textContent = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                document.getElementById('local-time').textContent = new Date().toLocaleString();
+                document.getElementById('online-status').textContent = navigator.onLine ? 'Online' : 'Offline';
+            }
+            
+            updateWindowData();
+            window.addEventListener('resize', updateWindowData);
+            
+            // Technical details
+            document.getElementById('cookies-enabled').textContent = navigator.cookieEnabled ? 'Yes' : 'No';
+            document.getElementById('js-enabled').textContent = 'Yes (obviously)';
+            document.getElementById('java-enabled').textContent = navigator.javaEnabled() ? 'Yes' : 'No';
+            
+            // PDF viewer detection
+            const pdfViewer = navigator.pdfViewerEnabled !== undefined ? 
+                (navigator.pdfViewerEnabled ? 'Built-in' : 'Not available') : 'Unknown';
+            document.getElementById('pdf-viewer').textContent = pdfViewer;
+            
+            // WebGL support
+            const webglSupported = (function() {
+                try {
+                    const canvas = document.createElement('canvas');
+                    return !!window.WebGLRenderingContext && 
+                        (canvas.getContext('webgl') || canvas.getContext('experimental-webgl'));
+                } catch(e) {
+                    return false;
+                }
+            })();
+            document.getElementById('webgl-supported').textContent = webglSupported ? 'Yes' : 'No';
+        });
+    </script>
+</body>
+</html>
